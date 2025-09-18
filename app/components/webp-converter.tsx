@@ -21,7 +21,6 @@ import {
   Code,
 } from "lucide-react";
 import { QualitySelector } from "./quality-selector";
-import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 
 interface ConvertedFile {
   id: string;
